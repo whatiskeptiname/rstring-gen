@@ -3,10 +3,10 @@ import setuptools
 setuptools.setup(
     name="rstring-gen",
     version="0.0.1",
-    description="A simple calculator",
+    description="Generates random string of given length.",
     author="Susan Ghimire",
     author_email="susangmree@gmail.com",
-    url="",
+    url="https://github.com/whatiskeptiname/rstring-gen.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Development Status :: 1 - Planning",
