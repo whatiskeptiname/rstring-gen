@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="rstring-gen",
-    version="0.0.1",
+    name="rstring_gen",
+    version="0.0.2",
     description="Generates random string of given length.",
     author="Susan Ghimire",
     author_email="susangmree@gmail.com",

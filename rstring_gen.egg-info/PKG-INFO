@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: rstring-gen
-Version: 0.0.1
+Version: 0.0.2
 Summary: Generates random string of given length.
 Home-page: https://github.com/whatiskeptiname/rstring-gen.git
 Author: Susan Ghimire
