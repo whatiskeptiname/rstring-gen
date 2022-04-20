@@ -1,8 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-rstring_gen/__init__.py
-rstring_gen.egg-info/PKG-INFO
-rstring_gen.egg-info/SOURCES.txt
-rstring_gen.egg-info/dependency_links.txt
-rstring_gen.egg-info/top_level.txt
